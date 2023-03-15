@@ -51,7 +51,7 @@ Landmark Technologies''', cc: 'td-app@gmail.com', from: '', replyTo: '', subject
 Landmark Technologies''', cc: 'td-app@gmail.com', from: '', replyTo: '', subject: 'Build failed', to: 'td-app@gmail.com'
     }
     success {
-    mail bcc: 'td-app@gmail.com', body: '''Build complete.
+    mail bcc: 'td-app@gmail.com', body: '''Build complete
 
 Landmark Technologies''', cc: 'td-app@gmail.com', from: '', replyTo: '', subject: 'Build succeed', to: 'td-app@gmail.com'
     }
